@@ -43,6 +43,12 @@ Analisis retensi pelanggan dilakukan menggunakan tiga metrik utama, dengan dua d
 - **Sales Retention** → Nilai penjualan yang berhasil dipertahankan oleh masing-masing cohort.  
 - **Average Sales per Customer** → Rata-rata nilai belanja per pelanggan dalam cohort tertentu.  
 
+---
+
+## 🖥️ Dashboard Preview  
+
+Berikut adalah tampilan dashboard interaktif yang dibuat dengan Power BI.  
+
 ![Alt Text](https://drive.google.com/uc?export=view&id=13ntBfmNSQqAD79PlcMjtMdugmDPuiTnG)
  
 
@@ -51,11 +57,12 @@ Analisis retensi pelanggan dilakukan menggunakan tiga metrik utama, dengan dua d
 ## 🔧 Teknologi dan Tools  
 Analisis dilakukan menggunakan Python dengan dukungan library utama:  
 
-- **Bahasa Pemrograman**: `Python`  
-- **Analisis Data**: `Pandas`, `NumPy`  
-- **Visualisasi Data**: `Matplotlib`, `Seaborn`  
-- **Pengolahan Tanggal/Waktu**: `datetime`  
-- **Lingkungan Pengembangan**: `Jupyter Notebook`  
+- Bahasa Pemrograman: `Python`  
+- Analisis Data: `Pandas`, `NumPy`  
+- Visualisasi Data: `Matplotlib`, `Seaborn`
+- Visualisasi Interaktif: `Power BI` 
+- Pengolahan Tanggal/Waktu: `datetime`  
+- Lingkungan Pengembangan: `Jupyter Notebook`  
 
 ---
 
