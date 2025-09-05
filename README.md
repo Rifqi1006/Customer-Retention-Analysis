@@ -24,9 +24,8 @@ Customer-Retention-Analysis/
 
 ## 📋 Dataset  
 Dataset bersumber dari Kaggle: *Retail Sales Dataset*  
-Data ini merepresentasikan penjualan toko online dengan total **461.773 baris** dan **7 kolom** utama.  
+Data ini merepresentasikan penjualan toko online dari Januari – Desember 2010 
 
-- Periode Data: Januari – Desember 2010 
 - Ukuran Data: 461.773 baris, 7 kolom  
 - Karakteristik Data: berisi transaksi penjualan mencakup informasi pesanan, produk, jumlah, harga, dan pelanggan.  
 - Struktur Kolom:
@@ -73,5 +72,3 @@ Analisis dilakukan menggunakan Python dengan dukungan library utama:
 - Rata-rata nilai belanja meningkat hingga 81% pada pelanggan yang bertahan, membuktikan kesuksesan strategi upselling dan loyalitas.
 - Cohort Q1 dengan retention rate 40%, merepresentasikan adanya kelompok pelanggan yang loyal.
 - Sebagian besar cohort kesulitan mempertahankan lebih dari 20-30% pelanggannya hingga bulan ke-6.
-
----
