@@ -1,4 +1,4 @@
-# 📊 Customer Retention Analysis
+# 👥 Customer Retention Analysis
  
 Proyek ini melakukan analisis retensi pelanggan menggunakan metode **cohort analysis** pada dataset ritel online. Cohort analysis merupakan teknik analisis yang mengelompokkan pelanggan berdasarkan waktu pertama mereka melakukan transaksi, kemudian memantau perilaku mereka dari waktu ke waktu. Analisis ini berguna untuk mengukur seberapa baik perusahaan mempertahankan pelanggannya serta mengidentifikasi pola perilaku pelanggan.
 
@@ -50,7 +50,8 @@ Analisis retensi pelanggan dilakukan menggunakan tiga metrik utama, dengan dua d
 Berikut adalah tampilan dashboard interaktif yang dibuat dengan Power BI.  
 
 ![Alt Text](https://drive.google.com/uc?export=view&id=13ntBfmNSQqAD79PlcMjtMdugmDPuiTnG)
- 
+
+Dashboard interaktif ini memungkinkan pengguna untuk melacak pola retensi pelanggan dari waktu ke waktu, menganalisis performa setiap cohort berdasarkan metrik retensi pelanggan dan penjualan, mengidentifikasi cohort dengan retensi tertinggi dan terendah, membandingkan performa antar cohort, serta mendapatkan wawasan untuk pengembangan strategi peningkatan loyalitas.
 
 ---
 
