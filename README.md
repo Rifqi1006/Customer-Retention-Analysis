@@ -5,7 +5,7 @@ Proyek ini melakukan analisis retensi pelanggan menggunakan metode **cohort anal
 ---
 
 ## 🎯 Tujuan  
-- Menganalisis pola retensi pelanggan dan mengidentifikasi faktor-faktor yang mempengaruhi loyalitas pelanggan.  
+- Mengukur pola retensi pelanggan dari waktu ke waktu menggunakan pendekatan cohort analysis. 
 - Menjadi portfolio yang menunjukkan kemampuan dalam menganalisis data serta menghasilkan actionable insights.  
 
 ---
